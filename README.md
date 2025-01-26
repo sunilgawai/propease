@@ -1,6 +1,8 @@
 
-# PropEase - Real Estate Management Platform
+# PropEase - Real Estate Management Landing Page
 
+
+<img src="https://github.com/user-attachments/assets/c5463a31-b063-4064-bc4b-0e7e3b4aa73e" alt="Propease Thumbnail">
 
 ## 🔥 Introduction
 
@@ -12,7 +14,7 @@ Check out the live demo of caps.ai here: [Live Preview](https://propease-app.ver
 
 ## 🎥 Watch the Preview Video on YouTube
 
-Take a look at YouTube video by watching the demo: [Watch the Video](https://youtu.be/dfQ_WwWV6g8) 
+Take a look at YouTube video by watching the demo: [Watch the Video](https://youtu.be/x3Vh1tOs8j0) 
 
 ## 💻 Tech Stack
 
